@@ -1,7 +1,6 @@
 # Dicee
 ### Just an alternative to stone paper scissor
-<<<<<<< HEAD
-![alt text](http://url/to/img.png)
-=======
 
->>>>>>> 9e4a5dddd5770d174f036d359ade3b5606b5f02f
+![alt text](./images/Screenshot%202022-11-23%20at%2012.39.17%20PM.png)
+
+
