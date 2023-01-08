@@ -2,7 +2,7 @@
   "name": "dice-roller",
   "version": "1.0.0",
   "description": "![alt text](./images/Screenshot%202022-11-23%20at%2012.39.17%20PM.png)",
-  "main": "dicee.html",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
