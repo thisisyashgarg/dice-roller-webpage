@@ -27,17 +27,6 @@ else {
 
 Open index.html in any modern browser and run the code.
 
-## File structure
-
-|- Dicee 
-
-  |- images
-  |- index.html
-  |- index.js
-  |- styles.css
-  
-|- README.md
-
 ## Screenshots
 
 ![alt text](./images/Screenshot%202022-11-23%20at%2012.39.17%20PM.png)
