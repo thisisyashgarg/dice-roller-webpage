@@ -1,12 +1,11 @@
 # Dicee
 
-A game based on javascript DOM(Document Object Model) manipulation to create two dice animated game. It Creates two dice, with each of its sides having random value and checks if one player has won or its a draw.
+A game based on javascript DOM(Document Object Model) manipulation to create two dice animated game. It creates two dice, with each of its sides having random value and checks if one player has won or its a draw.
 
-## Technology used 
+## Tech Stack used 
 1. HTML
 2. CSS
 3. JavaScript
-4. Google font family
 
 ## Code Example
 
