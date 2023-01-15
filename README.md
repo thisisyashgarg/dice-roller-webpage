@@ -30,10 +30,12 @@ Open index.html in any modern browser and run the code.
 ## File structure
 
 |- Dicee 
+
   |- images
   |- index.html
   |- index.js
   |- styles.css
+  
 |- README.md
 
 ## Screenshots
